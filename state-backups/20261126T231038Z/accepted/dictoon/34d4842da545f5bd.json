@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "34d4842da545f5bd",
+  "machine": {
+    "os": "Linux 6.18.40.1-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen Threadripper 3970X 32-Core Processor",
+    "cores": 32
+  },
+  "started": "2026-11-26T22:25:54Z",
+  "recorded": "2026-11-26T23:02:36Z",
+  "busy_seconds": 2078,
+  "modules_compiled": 1752,
+  "bitmap_b64": "H4sIAAAAAAACA+2cPUwUQRTH386t3JLA3aqEnJLoIn5EG4mJBmPiTcw1KlEaGxsusTc2hkKUES4UVtcbzdnZWFhZSMJSGwsrC0DOxMJoIQnhQ77G2Q+4Xe5bD8Xc/5ewO7c7vJl9b+a9mbeXIwKV0QpF1lDBZlC85Z24cxB+U6mBrcuN5JzfcIDW8rWdDjFNa2WC9IpiDe8k3KNeS0f0EiUAAAAAAAAAAAAAAAAAAAAAAPjPEVVrWNulXv9c8aWpWfySt5jDVWuwhj9pJqJ6pjOYHIBaMPdQXzSYAwAAAAAAANAMGNWrVErJWNAgAE2GIPO3sybIkoK9AHeDX4qRCMY3s1RcYztHvxMSrVAtI5RGDEdM80Osq2zkNOoIxODfcnwfdAAAAAAAAEDTEKUVqSBdbQEPkMir8lrSvTNMfVv7yvdycEjTaGzUVHtMIY8S2UkpL6l9o/O/dX3x5aJFMWfDeYcty+Ta3MajQTnxc0NKjbLrStam9InQsjqOxJvMHLZSxbqcPS8Xvge33fdcK006inn7g3LdBfN5FcTsUtUcFF/qsr3SU5mkLOfU8o14Yop0xyDUT51GIRtAhyh/KkI0E6HYSfs1dT8YLrHTL0tn8SWxI+cuXrVdbbcoMa5a6bV0bpVIGRiiKFFvFOU1QpRI4RnzEcqT/ZL49Ztey6FKWe9TZ7ujonTelTpFmYeWKonsNYP0qbSaJdEb8BXBAcC/lM6WikqvVmK9TyZt5T7sy6O+HXPH9PH7ix/jJM5ETrjXZtTU96zM1V9LkQzf7I6/Ko9uifBgELw2L/UnP3DU8hf0vrKLDjHaUGm7lfzbtlAqoBU/aLxZmN6YG5LrMkjc6wkvKY0xM9TdRGAA2Ac7aMwZQ8y9K9yx5w+7Ce2IHTNyyhqawTKUYGnSRkKSU2K/XuOIyO+cXIWC2ZABy0NzVWT8Z+fOwyRItBfNMddFqoPz3LrOxHY3LI15GimvU06c6aR/deZxwotU4vTqu83pZ59uGXRBqcxZZMhkLR1XlozGX9Q35kWPb6P52toAADQ1LG0ZjpO0xhd7XA8mBpRfbHDgy0fqEPI8+KGtUs2++tcs4srZAeLiLu9/PMJuW8LMaQnXqduOXxfy8+TqmvLyHaVX17woWBnuLRUly6/JNr1e8nDcGqi4cN+jCPoFrtqgAotVAAA=",
+  "olean_digest": "675e66c716d88bba6ad0a03746642cb138c94b2109bf9bf3996b0916813a6b37",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Francois Beaune"
+}

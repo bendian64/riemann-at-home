@@ -1,0 +1,25 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "archive_sha256": "9631b4f020199e580ba86178cb56c6e9b09f690c2369a80dc4334aa93f49c7fc",
+  "toolchain": "leanprover/lean4:v4.33.1",
+  "mathlib_rev": "0df444a360eaa60ab8c11dca51a86af692955474",
+  "build_folder": "/opt/riemann-at-home/lean",
+  "build_id": "34d4842da545f5bd",
+  "machine": {
+    "os": "Linux 6.18.40.1-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen Threadripper 3970X 32-Core Processor",
+    "cores": 32
+  },
+  "started": "2026-11-26T22:25:54Z",
+  "recorded": "2026-11-26T22:52:24Z",
+  "busy_seconds": 1466,
+  "modules_compiled": 1006,
+  "bitmap_b64": "H4sIAAAAAAACA+3bv07bQBwH8N+djXNCtLFQhPgnYakd+gBtxcaNjAxkYiAvUMSWgYGrxAO0L1AxtEO3DpU64j5Ah0oICSFE2JFgI0oI17MTEue/nTQQke9niJK7i33/cuc7O0QQG38OhZhtD2JPkhEbHQoAAAAAAAAAAAAAAAAAoC93XDN2YJm82RwtBAAAAAAAAABjSPRPgifaAaBBkTvwv2uwSwrjI+iNneY3r2fvD77itaZiXWfMvy+XUNPPwOsp1AEAAAAAwOSsFom+/dD7D+tAmaL58lr4XtbTyD96O8/MYpC7JlTpFSI/XU2vdf27yTA+R2RFQz7daX1U0rqiA4xuzetWesKawzelv9Pn74QsRIN3qWhqY2VxM+N7glRjkc7i72RLu19HaFYIzrIcbgmopMVIsiFmPU7NdiuDqm5yZF6EXf6wFnrwIYxz1wXZv3OUImcaY8XQOKnvvhk+pMPrN2ls5+3NcbqlecTDAOS0HaP2wKzds0/aXhAd2b5SMt6DtsPcGHIeoQaLIxwQU//1aGJEuezUQsXrk+ze2X75l3VWucibAdRSuq53jXG3KbvzTXNUa2E69SEmuF2NeDNokbzEEUN12LZfTpL7HrHTqiszsLusdkZfzZx+PMkKem+aoxA0y1qcg3z9rBNPD+pV7c1NvHMAwGTLmatqGSxwflrhhYeSI5j4koxkX6IfZnqlXE0+BSia2iCpduQ6W6BFT7mHTIRXZz4P13SXR6WyqYxM58Ffts1RIoziJLpfk91Xcymb562Nweagp6XoHzW371eLVQAA",
+  "olean_digest": "f90026e9e9e23234fa026bb156e96c78ce0b952bd83e43f8580babce0d53588f",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Francois Beaune"
+}

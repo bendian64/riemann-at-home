@@ -1,0 +1,26 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/opt/riemann-at-home/grh",
+  "build_id": "7031473c9a07a29f",
+  "machine": {
+    "os": "Linux 6.18.40.1-microsoft-standard-WSL2",
+    "arch": "x86_64",
+    "cpu": "AMD Ryzen Threadripper 3970X 32-Core Processor",
+    "cores": 64
+  },
+  "started": "2026-11-26T21:50:51Z",
+  "recorded": "2026-11-26T22:01:38Z",
+  "busy_seconds": 647,
+  "modules_compiled": 351,
+  "bitmap_b64": "H4sIAAAAAAACA9vf8H/63zff//u//1l/5Me///zccz78f/zf/35dvsmDjj9////f//9/+ddZncEF9V3feQ1etJn9YHTw6GZmOs/CEHGmkYOBwYGBgZeBgYUBDJweBC1KYHbqUGBIYWlgOfAfKMnAAgCuep/AZQAAAA==",
+  "olean_digest": "eee5a0f228b749dd51df4fdd8c160618f47481b23eab01843ad66857237872b4",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Francois Beaune"
+}
